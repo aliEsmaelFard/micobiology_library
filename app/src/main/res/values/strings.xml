@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Dr.Nabipor</string>
+    <string name="title_activity_main_bio_chemestery">MainActivityBioChemestery</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="fasl1">فصل اول</string>
+    <string name="fasl2">فصل دوم</string>
+    <string name="fasl3">فصل سوم</string>
+    <string name="fasl4">فصل چهارم</string>
+    <string name="fasl5">فصل پنجم</string>
+    <string name="fasl6">فصل ششم</string>
+    <string name="fasl7">فصل هفتم</string>
+
+    <string name="b1">مقدمه ای بر زیست شناسی </string>
+    <string name="b2">سلول وساختار آن</string>
+    <string name="b3">بافت</string>
+    <string name="b4">اندامک های سلول</string>
+    <string name="b5">دستگاه گردش خون</string>
+    <string name="b6">دستگاه تنفس</string>
+    <string name="b7">دستگاه گوارش</string>
+
+
+    <string name="f1"> فرایندهای زیست فناوری</string>
+    <string name="f2">مهندسی ژنتیک</string>
+    <string name="f3">زیست فناوری کشاورزی</string>
+    <string name="f4">زیست فناوری بهداشت</string>
+    <string name="f5">زیست فناوری محیطی</string>
+
+
+    <string name="c1">آشنایی با وسایل آزمایشگاه</string>
+    <string name="c2">تیتراسیون و بافرها</string>
+    <string name="c3">کربوهیداراتها</string>
+    <string name="c4">لیپیدها</string>
+    <string name="c5">اسیدآمینه و پروتیین</string>
+
+</resources>
